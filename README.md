@@ -1,2 +1,2 @@
 # DataScienceCoursera
-Repository of data science coursework
+Repository of data science coursework.
